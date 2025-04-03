@@ -1,5 +1,6 @@
 ## Hi there, I'm Ary Kurniawan - 👋
 
+### About me:
 ### ✉️ I’m currently working as Data Analyst | Business Intelligence 
 
 ### 👯 I’m looking to collaborate as Data Automation and Analyst
