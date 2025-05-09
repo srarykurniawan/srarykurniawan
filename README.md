@@ -9,8 +9,8 @@
 
 ## Education:
 
-### 1.Politeknik Caltex Riau [www.pcr.ac.id] | Bachelor of Electronic Engineering | Pekanbaru 2009-2013
-### 2.SMA Muhammadiyah 1 - Science | Pekanbaru 2006-2009
+### 1. Politeknik Caltex Riau [www.pcr.ac.id] | Bachelor of Electronic Engineering | Pekanbaru 2009-2013
+### 2. SMA Muhammadiyah 1 - Science | Pekanbaru 2006-2009
 
 ## Work Experiences:
 
