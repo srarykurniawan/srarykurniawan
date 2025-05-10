@@ -1,4 +1,7 @@
 # Hi there, I'm Ary - aka [arykurniawan]
+
+![Ary Kurniawan](img/github-header-image.png)
+
 ## About me:
 - I'm currenctly working at Babada Corp
 - I'm currenctly learning Data Analyst | Machine Learning | Tableau
