@@ -1,4 +1,4 @@
-# Hi there, I'm Ary - aka [arykurniawan]
+# Hi World!!!
 
 <img src="github-header-image.png" alt="Banner" width="100%" />
 
