@@ -1,6 +1,6 @@
 # Hi there, I'm Ary - aka [arykurniawan]
 
-![Ary Kurniawan](img/github-header-image.png)
+<img src="assets/github-header-image.png" alt="Banner" width="100%" />
 
 ## About me:
 - I'm currenctly working at Babada Corp
