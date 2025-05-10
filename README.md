@@ -9,16 +9,16 @@
 
 ## Education:
 
-### 1. Politeknik Caltex Riau [www.pcr.ac.id] | Bachelor of Electronic Engineering | Pekanbaru 2009-2013
-### 2. SMA Muhammadiyah 1 - Science | Pekanbaru 2006-2009
+### 1. [**Politeknik Caltex Riau**](https://pcr.ac.id/) | Bachelor of Electronic Engineering | Pekanbaru 2009-2013
+### 2. [**SMA Muhammadiyah 1**](https://www.smamsapku.sch.id/) - Science | Pekanbaru 2006-2009
 
 ## Work Experiences:
 
-### 1. PT Dian Graha Electrica-Huawei Project Sumbagut | Logistic Specialist | Medan 2013-2014
+### 1. [**PT Dian Graha Electrica-Huawei Project**](https://www.huawei.com/) Sumbagut | Logistic Specialist | Medan 2013-2014
   - Distribution Plannning, Logistic Management, Delivery Time
   - Sumbagut Area (Aceh-Sumatera Barat-Riau)
   
-### 2. PT Babada Wasaka Indonesia | Lead of Data Analyst
+### 2. [**PT Babada Wasaka Indonesia**](https://www.babada.co.id/) | Lead of Data Analyst
   - Develop predictive models for customer behavior analysis and sales opportunities.
   - Provide interactive dashboards (Tableau/LookerStudio) for managerial decision-making.
   - Conduct in-depth data exploration to identify trends, outliers and customer segmentation.
