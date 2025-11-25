@@ -1,5 +1,3 @@
-<img src="github-header-image.png" alt="Banner" width="100%" />
-
 ## About me:
 - I'm currenctly working at Babada Corp
 - I'm currenctly learning Data Analyst | Machine Learning | Tableau
