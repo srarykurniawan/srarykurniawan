@@ -27,10 +27,14 @@
   - Compile weekly and monthly performance reports, including insights and recommended actions.
   - Collaborate with team to create data-driven campaigns.
   
-## Language and Tools
+## Database & Analytics Tools
 
-[<img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" style="padding-right:30px; "/>]
-[<img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:30px; "/>]
-[<img align="left" alt="Excel" width="50px" src="https://media.hitekno.com/thumbs/2022/12/28/85361-logo-microsoft-excel/730x480-img-85361-logo-microsoft-excel.jpg" style="padding-right:30px; "/>]
-[<img align="left" alt="Tableau" width="50px" src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" style="padding-right:30px; "/>]
-[<img align="left" alt="Looker" width="50px" src="https://www.accuranker.com/static/4b6ff180c18f1b81655710ecae4150cf/1721f/Looker_6f803d7fdc.png" style="padding-right:30px; "/>]
+<div align="left">
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"></code>
+  <code><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" title="Excel"></code>
+  <code><img height="45" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" title="Google BigQuery"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"></code>
+  <code><img height="45" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" title="Airflow"></code>
+  <code><img height="45" src="https://www.vectorlogo.zone/logos/google_looker_studio/google_looker_studio-icon.svg" alt="Looker Studio" title="Looker Studio"></code>
+</div>
