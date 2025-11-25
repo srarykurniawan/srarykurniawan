@@ -27,8 +27,6 @@
   
 ## Database & Analytics Tools
 
-### 📊 Database & Analytics Tools
-
 <div align="left" style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
     <a href="https://www.postgresql.org/" target="_blank">
         <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL">
