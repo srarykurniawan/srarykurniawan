@@ -29,12 +29,25 @@
   
 ## Database & Analytics Tools
 
-<div align="left">
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"></code>
-  <code><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" title="Excel"></code>
-  <code><img height="45" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" title="Google BigQuery"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"></code>
-  <code><img height="45" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" title="Airflow"></code>
-  <code><img height="45" src="https://www.vectorlogo.zone/logos/google_looker_studio/google_looker_studio-icon.svg" alt="Looker Studio" title="Looker Studio"></code>
+### 📊 Database & Analytics Tools
+
+<div align="left" style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL">
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python">
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" alt="Excel" title="Microsoft Excel">
+    </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank">
+        <img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" alt="BigQuery" title="Google BigQuery">
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker">
+    </a>
+    <a href="https://airflow.apache.org/" target="_blank">
+        <img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apacheairflow.svg" alt="Airflow" title="Apache Airflow">
+    </a>
 </div>
