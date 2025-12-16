@@ -17,13 +17,10 @@
   - Distribution Plannning, Logistic Management, Delivery Time
   - Sumbagut Area (Aceh-Sumatera Barat-Riau)
   
-### 2. [**PT Babada Wasaka Indonesia**](https://www.babada.co.id/) | Lead of Data Analyst
-  - Develop predictive models for customer behavior analysis and sales opportunities.
-  - Provide interactive dashboards (Tableau/LookerStudio) for managerial decision-making.
-  - Conduct in-depth data exploration to identify trends, outliers and customer segmentation.
-  - Increased digital campaign ROI by 30% through funnel analysis and A/B testing.
-  - Compile weekly and monthly performance reports, including insights and recommended actions.
-  - Collaborate with team to create data-driven campaigns.
+### 2. [**PT Babada Wasaka Indonesia**](https://www.babada.co.id/) | Lead of Data Analyst | Pekanbaru 2018-Now
+  - Build and manage Python & SQL-based ETL pipelines for consolidating sales, inventory, and marketing data from various sources.
+  - Design data models (star schema) for operational & management dashboard requirements.
+  - Create daily/weekly/monthly dashboards to monitor sales based on region, category, and channel.
   
 ## Database & Analytics Tools
 
