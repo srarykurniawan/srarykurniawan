@@ -2,9 +2,7 @@
 
 ## About me:
 - I'm currenctly working at Babada Corp
-- I'm currenctly learning Data Analyst | Machine Learning | Tableau
-- I'm looking to collaborate as Data Scientist
-- I'm looking for suggest for Automation and Data Scientist
+- I'm currenctly learning Data Engineer | Data Analyst 
 - Ask me about anything
 - Now to reach me : sr.arykurniawan@gmail.com
 
