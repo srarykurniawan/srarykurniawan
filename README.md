@@ -14,8 +14,8 @@
 ## Work Experiences:
 
 ### 1. [**PT Dian Graha Electrica-Huawei Project**](https://www.huawei.com/) Sumbagut | Logistic Specialist | Medan 2013-2014
-  - Distribution Plannning, Logistic Management, Delivery Time
-  - Sumbagut Area (Aceh-Sumatera Barat-Riau)
+  - Support the process of shipping and receiving goods in accordance with SOPs.
+  - Record and update stock using the internal system.
   
 ### 2. [**PT Babada Wasaka Indonesia**](https://www.babada.co.id/) | Lead of Data Analyst | Pekanbaru 2018-Now
   - Build and manage Python & SQL-based ETL pipelines for consolidating sales, inventory, and marketing data from various sources.
