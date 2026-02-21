@@ -11,16 +11,35 @@
 ### 1. [**Politeknik Caltex Riau**](https://pcr.ac.id/) | Bachelor of Electronic Engineering | Pekanbaru 2009-2013
 ### 2. [**SMA Muhammadiyah 1**](https://www.smamsapku.sch.id/) - Science | Pekanbaru 2006-2009
 
+## Skills:
+* Language			  : Python, SQL
+* Framework		    : Pandas, Numpy, Matplotlib, Spark, Airflow
+* Tools			      : Power BI, Looker, Tableau, Excel, PostgreSQL
+* Platform			  : Visual Studio Code, Google Colab
+* Data Warehouse	: Google Cloud Platform
+
 ## Work Experiences:
 
-### 1. [**PT Dian Graha Electrica-Huawei Project**](https://www.huawei.com/) Sumbagut | Logistic Specialist | Medan 2013-2014
-  - Support the process of shipping and receiving goods in accordance with SOPs.
-  - Record and update stock using the internal system.
-  
-### 2. [**PT Babada Wasaka Indonesia**](https://www.babada.co.id/) | Lead of Data Analyst | Pekanbaru 2018-Now
-  - Build and manage Python & SQL-based ETL pipelines for consolidating sales, inventory, and marketing data from various sources.
-  - Design data models (star schema) for operational & management dashboard requirements.
-  - Create daily/weekly/monthly dashboards to monitor sales based on region, category, and channel.
+### 1. [**Senior Data Analyst** | Babada Corp] from Januari 2023 to Present
+* Leading data analysis to support business and operational decision-making.
+*	Acting as a liaison between the data team and cross-functional stakeholders.
+*	Ensuring the quality and consistency of data in reports and analyses.
+*	Provide guidance and review the work of Data Analysts.
+
+###  [**Data Analyst Staff** | Babada Corp]	from November 2018 to December 2023
+*	Performing daily, weekly, and monthly sales analysis based on products and categories.
+* Evaluating promotional performance (discounts, bundling, marketplace promotions).
+* Analyzing customer purchasing patterns.
+
+### 2. [**Marketing Analyst Staff** | PCR] from March 2015 to October 2018
+*	Analyzing new student admission data based on study programs, admission channels, and time periods.
+*	Evaluating the effectiveness of promotional channels based on the conversion funnel.
+*	Developing marketing performance dashboards and reports for management purposes.
+
+### 3. [**Supply Chain Analyst Staff**| Huawei Technologies] from November 2013 to December 2014
+*	Analyzing the distribution of materials from the central warehouse to regional and project sites.
+*	Compiling dashboards and warehouse performance reports on a regular basis.
+*	Monitoring stock levels, inventory turnover, and aging materials.
   
 ## Database & Analytics Tools
 
