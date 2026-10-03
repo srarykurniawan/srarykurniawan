@@ -1,65 +1,99 @@
-![Header](ary-header.png)
+<div align="center">
 
-## About me:
-- I'm currenctly working at Babada Corp
-- I'm currenctly learning Data Engineer | Data Analyst 
-- Ask me about anything
-- Now to reach me : sr.arykurniawan@gmail.com
+<img src="./ary-header.png" alt="Ary Kurniawan — Data Engineer | Data Analyst" width="100%" />
 
-## Education:
+<br />
 
-### 1. [**Politeknik Caltex Riau**](https://pcr.ac.id/) | Bachelor of Electronic Engineering | Pekanbaru 2009-2013
-### 2. [**SMA Muhammadiyah 1**](https://www.smamsapku.sch.id/) - Science | Pekanbaru 2006-2009
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Senior+Data+Analyst+%40+Babada+Corp;10%2B+years+turning+raw+data+into+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Airflow+%E2%80%A2+BigQuery+%E2%80%A2+Power+BI" alt="Senior Data Analyst at Babada Corp — 10+ years turning raw data into decisions" />
 
-## Skills:
-* Language			  : Python, SQL
-* Framework		    : Pandas, Numpy, Matplotlib, Spark, Airflow
-* Tools			      : Power BI, Looker, Tableau, Excel, PostgreSQL
-* Platform			  : Visual Studio Code, Google Colab
-* Data Warehouse	: Google Cloud Platform
+<p>
+  <a href="mailto:sr.arykurniawan@gmail.com"><img src="https://img.shields.io/badge/Email-sr.arykurniawan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=srarykurniawan&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-## Work Experiences:
+</div>
 
-### 1. [**Senior Data Analyst** | Babada Corp] from Januari 2023 to Present
-* Leading data analysis to support business and operational decision-making.
-*	Acting as a liaison between the data team and cross-functional stakeholders.
-*	Ensuring the quality and consistency of data in reports and analyses.
-*	Provide guidance and review the work of Data Analysts.
+## 👋 About me
 
-###  [**Data Analyst Staff** | Babada Corp]	from November 2018 to December 2023
-*	Performing daily, weekly, and monthly sales analysis based on products and categories.
-* Evaluating promotional performance (discounts, bundling, marketplace promotions).
-* Analyzing customer purchasing patterns.
+I'm a **Senior Data Analyst** based in Pekanbaru, Indonesia, with 10+ years of experience across retail, education, and telecom. I lead analysis work at **Babada Corp**, act as the bridge between business stakeholders and data, and keep data quality in check.
 
-### 2. [**Marketing Analyst Staff** | PCR] from March 2015 to October 2018
-*	Analyzing new student admission data based on study programs, admission channels, and time periods.
-*	Evaluating the effectiveness of promotional channels based on the conversion funnel.
-*	Developing marketing performance dashboards and reports for management purposes.
+I'm now extending that analyst foundation into **data engineering** — building pipelines that are scheduled, tested, and reproducible instead of manual.
 
-### 3. [**Supply Chain Analyst Staff**| Huawei Technologies] from November 2013 to December 2014
-*	Analyzing the distribution of materials from the central warehouse to regional and project sites.
-*	Compiling dashboards and warehouse performance reports on a regular basis.
-*	Monitoring stock levels, inventory turnover, and aging materials.
-  
-## Database & Analytics Tools
+- 🏢 Currently: Senior Data Analyst at **Babada Corp**
+- 🔧 Building: end-to-end pipelines with **Airflow, Spark, Docker, and BigQuery**
+- 📊 Strongest at: sales, promotion, and customer-behaviour analysis
+- 💬 Ask me about: SQL, dashboard design, and moving from analyst to engineer
 
-<div align="left" style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL">
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python">
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" alt="Excel" title="Microsoft Excel">
-    </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank">
-        <img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" alt="BigQuery" title="Google BigQuery">
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker">
-    </a>
-    <a href="https://airflow.apache.org/" target="_blank">
-        <img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apacheairflow.svg" alt="Airflow" title="Apache Airflow">
-    </a>
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,gcp,docker,vscode,git,github&theme=dark" alt="Python, PostgreSQL, Google Cloud, Docker, VS Code, Git, GitHub" />
+
+</div>
+
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **Orchestration & infra** | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Warehouse & cloud** | ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **BI & visualisation** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
+| **Workspace** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) |
+
+## 🔄 How I work with data
+
+```mermaid
+flowchart LR
+    A[(Sources<br/>POS · ERP · Files)] --> B[Ingest<br/>Python · Airflow]
+    B --> C[(Warehouse<br/>BigQuery · PostgreSQL)]
+    C --> D[Transform<br/>SQL · Spark]
+    D --> E[Serve<br/>Power BI · Looker · Tableau]
+    E --> F([Business decisions])
+```
+
+## 🚀 Featured projects
+
+<!-- Replace each row with a real repository. Keep 3–4 of your best. -->
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**project-name-1**](https://github.com/srarykurniawan/project-name-1) | One sentence: the problem, what you built, the result. | `Airflow` `BigQuery` `Docker` |
+| [**project-name-2**](https://github.com/srarykurniawan/project-name-2) | One sentence: the problem, what you built, the result. | `Python` `PostgreSQL` |
+| [**project-name-3**](https://github.com/srarykurniawan/project-name-3) | One sentence: the problem, what you built, the result. | `SQL` `Power BI` |
+
+## 💼 Experience
+
+**Senior Data Analyst** · Babada Corp · *Jan 2023 – Present*
+Lead analysis work, liaise with business stakeholders, own data quality, and mentor the analyst team.
+
+**Data Analyst** · Babada Corp · *Nov 2018 – Dec 2022*
+Sales analysis, promotion evaluation, and customer-behaviour analysis for retail operations.
+
+**Marketing Analyst** · Politeknik Caltex Riau · *Mar 2015 – Oct 2018*
+Analysed admissions data, measured promotion effectiveness, and built reporting dashboards.
+
+**Supply Chain Analyst** · Huawei Technologies · *Nov 2013 – Dec 2014*
+Tracked material distribution, produced performance reports, and monitored inventory.
+
+## 🎓 Education
+
+**[Politeknik Caltex Riau](https://pcr.ac.id/)** — Bachelor of Electronic Engineering · Pekanbaru · 2009 – 2013
+
+<details>
+<summary>Earlier education</summary>
+<br />
+
+**[SMA Muhammadiyah 1 Pekanbaru](https://www.smamsapku.sch.id/)** — Science · 2006 – 2009
+
+</details>
+
+---
+
+<div align="center">
+
+**Open to collaboration on data pipelines and analytics projects.**
+📫 [sr.arykurniawan@gmail.com](mailto:sr.arykurniawan@gmail.com)
+
 </div>
