@@ -60,8 +60,6 @@ flowchart LR
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
 | 🛢️ [**volve-well-ml**](https://github.com/srarykurniawan/volve-well-ml) | Machine learning on well data from the Volve oil field dataset. | `Machine Learning` `HTML` |
 | 👥 [**HR Analytics End-to-End**](https://github.com/srarykurniawan/Project-BI-HR-Analytics-End-to-End) | HR analytics dashboard for a fictional 500-employee company (8 departments, 6 cities) built on 3 years of data, Jan 2023 – Dec 2025. | `Python` `BI Dashboard` |
 | 📈 [**Sales Demand Forecasting**](https://github.com/srarykurniawan/sales_demand_forecasting_datascienceproject) | Production-style retail demand forecasting: EDA, leakage-free feature engineering, model comparison, SHAP interpretability, and a served REST API. | `Python` `Jupyter` `SHAP` `REST API` |
