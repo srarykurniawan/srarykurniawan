@@ -20,10 +20,11 @@ I'm a **Senior Data Analyst** based in Pekanbaru, Indonesia, with 10+ years of e
 
 I'm now extending that analyst foundation into **data engineering** — building pipelines that are scheduled, tested, and reproducible instead of manual.
 
-- 🏢 Currently: Senior Data Analyst at **Babada Corp**
-- 🔧 Building: end-to-end pipelines with **Airflow, Spark, Docker, and BigQuery**
-- 📊 Strongest at: sales, promotion, and customer-behaviour analysis
-- 💬 Ask me about: SQL, dashboard design, and moving from analyst to engineer
+- 🏢 I'm currently working at **Babada Corp**
+- 🌱 I'm currently learning **Data Engineering** — Airflow, Spark, Docker, and BigQuery
+- 📊 Strongest at sales, promotion, and customer-behaviour analysis
+- 💬 Ask me about anything
+- 📫 How to reach me: [sr.arykurniawan@gmail.com](mailto:sr.arykurniawan@gmail.com)
 
 ## 🛠️ Tech stack
 
@@ -63,31 +64,45 @@ flowchart LR
 | [**project-name-2**](https://github.com/srarykurniawan/project-name-2) | One sentence: the problem, what you built, the result. | `Python` `PostgreSQL` |
 | [**project-name-3**](https://github.com/srarykurniawan/project-name-3) | One sentence: the problem, what you built, the result. | `SQL` `Power BI` |
 
-## 💼 Experience
+## 💼 Work experience
 
-**Senior Data Analyst** · Babada Corp · *Jan 2023 – Present*
-Lead analysis work, liaise with business stakeholders, own data quality, and mentor the analyst team.
+### 🏢 Babada Corp
 
-**Data Analyst** · Babada Corp · *Nov 2018 – Dec 2022*
-Sales analysis, promotion evaluation, and customer-behaviour analysis for retail operations.
+**Senior Data Analyst** · *January 2023 – Present*
 
-**Marketing Analyst** · Politeknik Caltex Riau · *Mar 2015 – Oct 2018*
-Analysed admissions data, measured promotion effectiveness, and built reporting dashboards.
+- Leading data analysis to support business and operational decision-making.
+- Acting as a liaison between the data team and cross-functional stakeholders.
+- Ensuring the quality and consistency of data in reports and analyses.
+- Providing guidance and reviewing the work of Data Analysts.
 
-**Supply Chain Analyst** · Huawei Technologies · *Nov 2013 – Dec 2014*
-Tracked material distribution, produced performance reports, and monitored inventory.
+**Data Analyst Staff** · *November 2018 – December 2022*
+
+- Performing daily, weekly, and monthly sales analysis based on products and categories.
+- Evaluating promotional performance (discounts, bundling, marketplace promotions).
+- Analyzing customer purchasing patterns.
+
+### 🎓 Politeknik Caltex Riau (PCR)
+
+**Marketing Analyst Staff** · *March 2015 – October 2018*
+
+- Analyzing new student admission data based on study programs, admission channels, and time periods.
+- Evaluating the effectiveness of promotional channels based on the conversion funnel.
+- Developing marketing performance dashboards and reports for management purposes.
+
+### 📡 Huawei Technologies
+
+**Supply Chain Analyst Staff** · *November 2013 – December 2014*
+
+- Analyzing the distribution of materials from the central warehouse to regional and project sites.
+- Compiling dashboards and warehouse performance reports on a regular basis.
+- Monitoring stock levels, inventory turnover, and aging materials.
 
 ## 🎓 Education
 
-**[Politeknik Caltex Riau](https://pcr.ac.id/)** — Bachelor of Electronic Engineering · Pekanbaru · 2009 – 2013
-
-<details>
-<summary>Earlier education</summary>
-<br />
-
-**[SMA Muhammadiyah 1 Pekanbaru](https://www.smamsapku.sch.id/)** — Science · 2006 – 2009
-
-</details>
+| | Institution | Program | Location | Years |
+| :-: | :--- | :--- | :--- | :--- |
+| 🎓 | [**Politeknik Caltex Riau**](https://pcr.ac.id/) | Bachelor of Electronic Engineering | Pekanbaru | 2009 – 2013 |
+| 🏫 | [**SMA Muhammadiyah 1**](https://www.smamsapku.sch.id/) | Science | Pekanbaru | 2006 – 2009 |
 
 ---
 
