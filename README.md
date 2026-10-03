@@ -60,9 +60,19 @@ flowchart LR
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**project-name-1**](https://github.com/srarykurniawan/project-name-1) | One sentence: the problem, what you built, the result. | `Airflow` `BigQuery` `Docker` |
-| [**project-name-2**](https://github.com/srarykurniawan/project-name-2) | One sentence: the problem, what you built, the result. | `Python` `PostgreSQL` |
-| [**project-name-3**](https://github.com/srarykurniawan/project-name-3) | One sentence: the problem, what you built, the result. | `SQL` `Power BI` |
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| 🛢️ [**volve-well-ml**](https://github.com/srarykurniawan/volve-well-ml) | Machine learning on well data from the Volve oil field dataset. | `Machine Learning` `HTML` |
+| 👥 [**HR Analytics End-to-End**](https://github.com/srarykurniawan/Project-BI-HR-Analytics-End-to-End) | HR analytics dashboard for a fictional 500-employee company (8 departments, 6 cities) built on 3 years of data, Jan 2023 – Dec 2025. | `Python` `BI Dashboard` |
+| 📈 [**Sales Demand Forecasting**](https://github.com/srarykurniawan/sales_demand_forecasting_datascienceproject) | Production-style retail demand forecasting: EDA, leakage-free feature engineering, model comparison, SHAP interpretability, and a served REST API. | `Python` `Jupyter` `SHAP` `REST API` |
+| 🛒 [**E-Commerce Data Pipeline**](https://github.com/srarykurniawan/End-to-End-Data-Engineering-Project-E-Commerce-Pipeline) | End-to-end data engineering project: an orchestrated ETL pipeline for e-commerce data. | `Python` `Airflow` `Docker Compose` |
+| 📚 [**ebook-data-collection**](https://github.com/srarykurniawan/ebook-data-collection) | E-book data collection project. | `Data Collection` |
+
+<div align="center">
+
+<a href="https://github.com/srarykurniawan?tab=repositories"><img src="https://img.shields.io/badge/See%20all%2023%20repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories" /></a>
+
+</div>
 
 ## 💼 Work experience
 
