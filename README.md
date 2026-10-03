@@ -1,18 +1,4 @@
-<div align="center">
-
-<img src="./ary-header.png" alt="Ary Kurniawan — Data Engineer | Data Analyst" width="100%" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Senior+Data+Analyst+%40+Babada+Corp;10%2B+years+turning+raw+data+into+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Airflow+%E2%80%A2+BigQuery+%E2%80%A2+Power+BI" alt="Senior Data Analyst at Babada Corp — 10+ years turning raw data into decisions" />
-
-<p>
-  <a href="mailto:sr.arykurniawan@gmail.com"><img src="https://img.shields.io/badge/Email-sr.arykurniawan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=srarykurniawan&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-</div>
+<div align="center"> <img src="./ary-header.svg" alt="Ary Kurniawan — Data Engineer | Data Analyst" width="100%" /> <br /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Senior+Data+Analyst+%40+Babada+Corp;10%2B+years+turning+raw+data+into+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Airflow+%E2%80%A2+BigQuery+%E2%80%A2+Power+BI" alt="Senior Data Analyst at Babada Corp — 10+ years turning raw data into decisions" /> <p> <a href="mailto:sr.arykurniawan@gmail.com"><img src="https://img.shields.io/badge/Email-sr.arykurniawan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/ary-kurniawan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=srarykurniawan&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" /> </p> </div>
 
 ## 👋 About me
 
